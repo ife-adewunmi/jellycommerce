@@ -14,11 +14,11 @@ export default function Home() {
     <Layout>
       <Head>
         <title>Jelly Commerce</title>
-        <meta name="description" content="Get your Space Jelly gear!" />
+        <meta name="description" content="Get your Jelly Commerce gear!" />
       </Head>
 
       <Container>
-        <h1 className="sr-only">Space Jelly Gear</h1>
+        <h1 className="sr-only">Jelly Commerce</h1>
 
         <div className={styles.hero}>
           <Link href="#">
