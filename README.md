@@ -1,4 +1,5 @@
-# Space Jelly Gear Starter
+## Tutorial Link
+[egghead.io](https://egghead.io/courses/ecommerce-product-management-storefront-with-graphcms-snipcart-next-js-13cc0534)
 
 ## ⚡️ Quick Start
 
