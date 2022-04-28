@@ -72,7 +72,6 @@ export async function getStaticProps({ params }) {
   })
 
   const product = data.data.product;
-  console.log('Product', product );
 
   return {
     props: {
@@ -107,8 +106,6 @@ export async function  getStaticPaths() {
       }
     }
   })
-
-  console.log(paths);
 
   return {
     paths,
